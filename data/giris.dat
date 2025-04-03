@@ -1,0 +1,7 @@
+write: 10 a 1 \b 8 k 4 r 6 u
+delete: 4 a
+to_end:
+write: 3 b 4 c 1 \n
+write: 2 s
+to_end:
+stop:
